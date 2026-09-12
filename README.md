@@ -10,7 +10,7 @@ ok ok anyway
 ## 预览
 
 
-<!-- ![预览](preview.png) -->
+![预览](preview.png)
 
 ## 快速开始
 
